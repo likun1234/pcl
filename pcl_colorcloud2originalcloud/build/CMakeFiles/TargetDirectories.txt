@@ -1,0 +1,3 @@
+/home/nb/Documents/Projects/pcl/pcl_color/build/CMakeFiles/rebuild_cache.dir
+/home/nb/Documents/Projects/pcl/pcl_color/build/CMakeFiles/edit_cache.dir
+/home/nb/Documents/Projects/pcl/pcl_color/build/CMakeFiles/main.dir
