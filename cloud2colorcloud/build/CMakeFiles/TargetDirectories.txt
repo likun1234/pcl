@@ -1,0 +1,3 @@
+/home/lk/project/pcl_practice/color_pointcloud/build/CMakeFiles/rebuild_cache.dir
+/home/lk/project/pcl_practice/color_pointcloud/build/CMakeFiles/edit_cache.dir
+/home/lk/project/pcl_practice/color_pointcloud/build/CMakeFiles/main.dir
